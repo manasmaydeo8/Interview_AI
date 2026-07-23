@@ -1,0 +1,6 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body { background: #f8fafc; font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+.dot-grid { background-image: radial-gradient(#cbd5e1 1px, transparent 1px); background-size: 18px 18px; }
